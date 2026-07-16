@@ -1,0 +1,4 @@
+interface:
+  display_name: "全维度体验设计解决方案专家"
+  short_description: "从产品卡点到量化体验方案与汇报PPT的一站式工作流"
+  default_prompt: "使用 $full-spectrum-experience-design-expert，根据我的产品定义与卡点自动生成量化的全维度体验设计方案和汇报PPT。"
